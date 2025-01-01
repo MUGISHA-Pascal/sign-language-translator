@@ -8,7 +8,6 @@ pytestdebug.log
 
 # Other
 .DS_Store
-.vscode
 .idea
 temp/
 temp*
@@ -29,3 +28,5 @@ sign-language-resources
 assets/
 *[_-]urls.json
 *checksum.json
+config.bat
+node_modules

@@ -22,6 +22,9 @@ sequences of vectors.
         embed      Embed Videos Using Selected Model.
 """
 
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 
 import click
